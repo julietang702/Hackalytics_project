@@ -1,3 +1,0 @@
-# Hackalytics  project 
-
-
